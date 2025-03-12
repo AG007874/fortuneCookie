@@ -16,6 +16,6 @@ if fortune_number == 3:
   fortune_text = 'You will get marrried this year!'
   
 if fortune_number == 4:
-  fortune_text = 'You will get your dream job!"
+  fortune_text = 'You will get your dream job!'
 
 print(f'{fortune_text} Your lucky number is:',lucky_number)
